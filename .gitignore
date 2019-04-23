@@ -1,0 +1,7 @@
+/target/
+
+# IntelliJ IDEA
+.idea/dictionaries/
+
+# Mac OS/X
+.DS_Store
